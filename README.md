@@ -1,5 +1,5 @@
 # CSCE652-C3
-## Ghidra Data Tracer Script (Tenative Name)
+## Ghidra Data Tracer Script (Tentative Name)
 
 ## Executive Summary
 Here, we propose a reverse engineering script for Ghidra. We refer to this as the Ghidra Data Tracer Script. We aim to create a Ghidra script which is able to trace and symbolically represent data flow in a program for all values either gotten through standard input (stdin) or present at initialization (init) or read from files through standard I/O operations. Further, we aim to generate a data-tracing tree from our calculated data-flow. This data-tracing tree would visually represent the program dataflow, and provide the user with a valuable visual reference for figuring out how a program works.
